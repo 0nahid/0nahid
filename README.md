@@ -1,6 +1,6 @@
 ### Hi there, I'm Nahid - aka [NSoft][website] 👋
 
-## I'm a Developer!!
+## I'm a Junior Web Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Contribute  to Open Source projects
@@ -8,7 +8,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Nahid Spotify Playing" width="350" />](https://open.spotify.com/playlist/6yKV8SI55UhDFeinrIw5qH)
 
 ### Connect with me:
 
