@@ -42,7 +42,7 @@
 <br>
 <br>
 
-  <summary> GitHub Stats</summary>
+### GitHub Stats:
   <img align="left" alt="Nahid's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=0nahid&show_icons=true&hide_border=true&bg_color=rgba(0,0,0,0)" />
 
 
