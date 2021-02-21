@@ -43,7 +43,7 @@
 <br />
 
   <summary> GitHub Stats</summary>
-  <img align="left" alt="Nahid's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=0nahid&show_icons=true&hide_border=true" />
+  <img align="left" alt="Nahid's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=0nahid&show_icons=true&hide_border=true&bg_color=dark" />
 
 
 [website]: https://nSoft.com
