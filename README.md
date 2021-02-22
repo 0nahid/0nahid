@@ -6,7 +6,7 @@
 - 🥅 2022 Goals: Contribute  to Open Source projects 📝
 - ⚡ Fun fact: I love to travel ✈🚢
 
-### Github Extra pin:
+### Some of my favorite repo :
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0nahid&repo=music-rocker)](https://github.com/0nahid/music-rocker)
 
 ### Spotify Playing 🎶
