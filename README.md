@@ -1,22 +1,22 @@
-### Hi there, I'm Nahid - aka [NSoft][website] 👋
+### Hi there, I'm Nahid - aka [Nahid][website] 😎
 
 ## I'm a Junior Web Developer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute  to Open Source projects
-- ⚡ Fun fact: I love to travel
+- 🌱 I’m currently learning everything 😇
+- 🥅 2022 Goals: Contribute  to Open Source projects 📝
+- ⚡ Fun fact: I love to travel ✈🚢
 
-### Spotify Playing 🎧
+### Spotify Playing 🎶
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Nahid Spotify Playing" width="350" />](https://open.spotify.com/playlist/6yKV8SI55UhDFeinrIw5qH)
 
 ### Connect with me:
 
-[<img align="left" alt="nsoft.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="nsoft | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="nsoft | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="nsoft | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="nsoft | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="nahidhassanbulbul.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="nahidhassanbulbul | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="nahidhassanbulbul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="nahidhassanbulbul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="nahidhassanbulbul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -39,17 +39,15 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br>
-<br>
+<br />
 
 ### GitHub Stats:
   <img align="left" alt="Nahid's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=0nahid&show_icons=true&hide_border=true&bg_color=rgba(0,0,0,0)" />
 
 
-[website]: https://nSoft.com
-[course]: http://vsCodeHero.com
+[website]: https://nahidhassanbulbul.com
 [twitter]: https://twitter.com/nahidhassanbul1
-[youtube]: https://youtube.com/nSoft
+[youtube]: https://youtube.com/nahidhassanbulbul
 [instagram]: https://instagram.com/0nahid_hassan
 [linkedin]: https://linkedin.com/in/nahid-hassan-bulbul
 
