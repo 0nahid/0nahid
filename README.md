@@ -6,6 +6,9 @@
 - 🥅 2022 Goals: Contribute  to Open Source projects 📝
 - ⚡ Fun fact: I love to travel ✈🚢
 
+### Github Extra pin:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0nahid&repo=music-rocker)](https://github.com/0nahid/music-rocker)
+
 ### Spotify Playing 🎶
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Nahid Spotify Playing" width="350" />](https://open.spotify.com/playlist/6yKV8SI55UhDFeinrIw5qH)
@@ -42,7 +45,8 @@
 <br />
 
 ### GitHub Stats:
-  <img align="left" alt="Nahid's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=0nahid&show_icons=true&hide_border=true&bg_color=rgba(0,0,0,0)" />
+  <img align="left" alt="Nahid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0nahid&show_icons=true&theme=dark&hide_border=true" />
+
 
 
 [website]: https://nahidhassanbulbul.com
