@@ -9,10 +9,6 @@
 ### Some of my favorite repo :
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0nahid&repo=music-rocker)](https://github.com/0nahid/music-rocker)
 
-### Spotify Playing 🎶
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Nahid Spotify Playing" width="350" />](https://open.spotify.com/playlist/6yKV8SI55UhDFeinrIw5qH)
-
 ### Connect with me:
 
 [<img align="left" alt="nahidhassanbulbul.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -50,8 +46,8 @@
 
 
 [website]: https://nahidhassanbulbul.com
-[twitter]: https://twitter.com/nahidhassanbul1
+[twitter]: https://twitter.com/nahidhassan_me
 [youtube]: https://youtube.com/nahidhassanbulbul
-[instagram]: https://instagram.com/0nahid_hassan
+[instagram]: https://instagram.com/nahidhassanbulbul.me
 [linkedin]: https://linkedin.com/in/nahid-hassan-bulbul
 
