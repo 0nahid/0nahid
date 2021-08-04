@@ -9,9 +9,6 @@
   <img align="left" alt="Nahid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0nahid&show_icons=true&theme=dark&hide_border=true" />
 <br />
 
-### Some of my favorite repo :
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0nahid&repo=music-rocker)](https://github.com/0nahid/music-rocker)
-<br />
 
 ### Connect with me:
 
