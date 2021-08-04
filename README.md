@@ -5,9 +5,6 @@
 - 🌱 I’m currently learning everything 😇
 - 🥅 2022 Goals: Contribute  to Open Source projects 📝
 - ⚡ Fun fact: I love to travel ✈🚢
-### GitHub Stats:
-  <img align="left" alt="Nahid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0nahid&show_icons=true&theme=dark&hide_border=true" />
-<br />
 
 
 ### Connect with me:
@@ -42,6 +39,9 @@
 <br />
 
 
+### GitHub Stats:  <br />
+  <img align="left" alt="Nahid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0nahid&show_icons=true&theme=dark&hide_border=true" />
+<br />
 
 
 [website]: https://nahidhassanbulbul.com
