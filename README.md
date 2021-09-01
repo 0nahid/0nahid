@@ -43,12 +43,14 @@
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
 
-<br /><br /><br />
-
-### GitHub Stats:  <br />
-  <img align="left" alt="Nahid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0nahid&show_icons=true&theme=dark&hide_border=true" />
 <br />
 
+### GitHub Stats:  <br />
+<p align = "center">
+ <img align="left" alt="Nahid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0nahid&show_icons=true&theme=dark&hide_border=true" />
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=0nahid">
+</p>
+<br />
 
 [website]: https://nahidhassanbulbul.com
 [twitter]: https://twitter.com/nahidhassan_me
