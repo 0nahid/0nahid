@@ -48,11 +48,9 @@
 ### GitHub Stats:  <br />
 <p align = "center">
  <img align="left" alt="Nahid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0nahid&show_icons=true&hide_border=true" /> 
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=0nahid">
-</p>
-<p align="center">
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0nahid">
 </p>
+
 <br />
 
 [website]: https://nahidhassanbulbul.com
