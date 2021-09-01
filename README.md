@@ -37,8 +37,9 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br /><br /><br />
-
-
+### @0nahid's Languages : <br />
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?0nahid" frameborder="0"></iframe>
+<br /><br /><br />
 ### GitHub Stats:  <br />
   <img align="left" alt="Nahid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0nahid&show_icons=true&theme=dark&hide_border=true" />
 <br />
