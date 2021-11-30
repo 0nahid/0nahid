@@ -46,7 +46,8 @@
 </p>
 
 <br />
-
+[![Nahid's github activity graph](https://activity-graph.herokuapp.com/graph?username=0nahid&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/0nahid/github-readme-activity-graph)
+<br />
 [website]: https://nahidhassanbulbul.com
 [twitter]: https://twitter.com/nahidhassan_me
 [youtube]: https://youtube.com/nahidhassanbulbul
