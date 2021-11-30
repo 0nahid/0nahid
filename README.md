@@ -39,6 +39,9 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=0nahid.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
+### Contribution graph:  <br />
+[![Nahid's github activity graph](https://activity-graph.herokuapp.com/graph?username=0nahid&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/0nahid/github-readme-activity-graph)
+
 ### GitHub Stats:  <br />
 <p align = "center">
  <img align="left" alt="Nahid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0nahid&show_icons=true&hide_border=true" /> 
@@ -46,8 +49,7 @@
 </p>
 
 <br />
-[![Nahid's github activity graph](https://activity-graph.herokuapp.com/graph?username=0nahid&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/0nahid/github-readme-activity-graph)
-<br />
+
 [website]: https://nahidhassanbulbul.com
 [twitter]: https://twitter.com/nahidhassan_me
 [youtube]: https://youtube.com/nahidhassanbulbul
