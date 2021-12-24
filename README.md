@@ -36,7 +36,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 <br />
 ### Profile Visitors 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=0nahid.visitor-badge&left_color=blue&right_color=yellow)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=0nahid.visitor-badge&left_color=0e75b6&right_color=red)
 <br />
 
 ### Contribution graph:  <br />
