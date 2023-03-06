@@ -5,9 +5,8 @@
 ## I'm a Junior Web Developer!!
 
 - 🌱 I’m currently learning everything 😇
-- 🥅 2022 Goals: Contribute  to Open Source projects 📝
+- 🥅 2022 Goals: Contribute to Open Source projects 📝
 - ⚡ Fun fact: I love to travel ✈🚢
-
 
 ### Connect with me:
 
@@ -32,17 +31,20 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 <br />
-### Profile Visitors 
+
+### Profile Visitors
+
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=0nahid.visitor-badge&left_color=0e75b6&right_color=red)
 <br />
 
-### Contribution graph:  <br />
-[![Nahid's github activity graph](https://activity-graph.herokuapp.com/graph?username=0nahid&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/0nahid/github-readme-activity-graph)
+### DevCard
 
-### GitHub Stats:  <br />
+<a href="https://app.daily.dev/nahidhassan"><img src="https://api.daily.dev/devcards/76ed474771b540d8a11bdbb741598f6c.png?r=k8s" width="400" alt="Nahid Hassan Bulbul's Dev Card"/></a>
+
+### GitHub Stats: <br />
+
 <p align = "center">
  <img align="left" alt="Nahid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0nahid&show_icons=true&hide_border=true" /> 
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0nahid">
@@ -55,4 +57,3 @@
 [youtube]: https://youtube.com/nahidhassanbulbul
 [instagram]: https://instagram.com/nahidhassanbulbul.me
 [linkedin]: https://linkedin.com/in/nahid-hassan-bulbul
-
