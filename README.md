@@ -27,8 +27,7 @@ I'm a Web Developer currently exploring the vast world of web development. My 20
 ![Nahid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0nahid&show_icons=true&hide_border=true)
 
 ## 🚀 DevCard
-<a href="https://app.daily.dev/nahidhassan"><img src="https://api.daily.dev/devcards/76ed474771b540d8a11bdbb741598f6c.png?r=k8s" width="400" alt="Nahid Hassan Bulbul's Dev Card"/></a>
-
+<a href="https://app.daily.dev/nahidhassan"><img src="https://api.daily.dev/devcards/v2/aYIjzk2yDEVPpF4iXvqY3.png?r=quq&type=wide" width="652" alt="Nahid Hassan Bulbul's Dev Card"/></a>
 
 ### 🚀 Connect with Me
 
